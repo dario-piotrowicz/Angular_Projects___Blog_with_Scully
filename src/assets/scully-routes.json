@@ -1,1 +1,1 @@
-[{"route":"/about"},{"route":"/articles"},{"route":"/posts/2021-08-24-posts","title":"2021-08-24-posts","description":"blog description","published":true,"sourceFile":"2021-08-24-posts.md"},{"route":"/"}]
+[{"route":"/about"},{"route":"/articles"},{"route":"/posts/angular-and-scully","title":"Angular and Scully","description":"What Angular and Scully are","published":true,"sourceFile":"angular-and-scully.md"},{"route":"/posts/jamstack","title":"Jamstack","description":"What Jamstack is","published":true,"sourceFile":"jamstack.md"},{"route":"/"}]
