@@ -1,27 +1,19 @@
-# BlogWithScully
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+# Blog With Scully Miniproject
 
-## Development server
+This is a simple miniproject I'm doing whilst reading/coding along the [Angular Projects - Second Edition book by Aristeidis Bampakos](https://www.packtpub.com/product/angular-projects-second-edition/9781800205260)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+It consists in an extremely simplistic Angular application implementing a blog in a Jamstack fashion using the [Scully](https://scully.io/docs/learn/overview/) static website generator.
 
-## Code scaffolding
+I have applied very minor tweaks (both in content and implementation) and mainly simply followed closely the book's implementation.
+\
+\
+\
+&NewLine;
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Deployment
 
-## Build
+![Netlify Status](https://api.netlify.com/api/v1/badges/83db53e2-0328-45bd-8588-3f14af7be12e/deploy-status)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+The project has been deployed via netlify at the following link:\
+https://blog-with-scully.netlify.app/
